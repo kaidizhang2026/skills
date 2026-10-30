@@ -1,0 +1,8 @@
+interface:
+  display_name: "办公室溜达神器"
+  short_description: "把任意场景变成第一人称三步沉浸式漫游动画 GIF，适合办公室短暂起身活动"
+  brand_color: "#4F8F67"
+  default_prompt: "使用 $office-walk-simulator，把我描述的场景做成第一人称三步漫游 GIF。"
+
+policy:
+  allow_implicit_invocation: true
